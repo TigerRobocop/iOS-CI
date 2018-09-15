@@ -13,7 +13,6 @@
 		57BDC488214C816D00D45C78 /* CI.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 57BDC486214C816D00D45C78 /* CI.xcdatamodeld */; };
 		57BDC48A214C816D00D45C78 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 57BDC489214C816D00D45C78 /* Assets.xcassets */; };
 		57BDC48D214C816D00D45C78 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 57BDC48B214C816D00D45C78 /* LaunchScreen.storyboard */; };
-		57BDC495214C82C000D45C78 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 57BDC494214C82C000D45C78 /* README.md */; };
 		57BDC49D214C839600D45C78 /* CIUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57BDC49C214C839600D45C78 /* CIUITests.swift */; };
 		57BDC4AB214C840800D45C78 /* CITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57BDC4AA214C840800D45C78 /* CITests.swift */; };
 /* End PBXBuildFile section */
@@ -44,7 +43,6 @@
 		57BDC489214C816D00D45C78 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		57BDC48C214C816D00D45C78 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		57BDC48E214C816D00D45C78 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		57BDC494214C82C000D45C78 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		57BDC49A214C839600D45C78 /* CIUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CIUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		57BDC49C214C839600D45C78 /* CIUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CIUITests.swift; sourceTree = "<group>"; };
 		57BDC49E214C839600D45C78 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -81,7 +79,6 @@
 		57BDC473214C816D00D45C78 = {
 			isa = PBXGroup;
 			children = (
-				57BDC494214C82C000D45C78 /* README.md */,
 				57BDC47E214C816D00D45C78 /* CI */,
 				57BDC49B214C839600D45C78 /* CIUITests */,
 				57BDC4A9214C840800D45C78 /* CITests */,
@@ -237,7 +234,6 @@
 			files = (
 				57BDC48D214C816D00D45C78 /* LaunchScreen.storyboard in Resources */,
 				57BDC48A214C816D00D45C78 /* Assets.xcassets in Resources */,
-				57BDC495214C82C000D45C78 /* README.md in Resources */,
 				57BDC485214C816D00D45C78 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
